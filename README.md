@@ -73,8 +73,8 @@ The dataset contains company sales records, providing insights across the follow
 
 ## Visualizations
 
-- **Sales and Profit Trends**: ![Sales and Profit](Images/sales_profit_trends.jpg)
-- **Sales and Profit Trends**![Sales and Profit Trends](Images/Profit_Trend_Years.jpg)
-- **Discount Effects on Profitability**: ![Discount Effects](images/Discount_Effect.jpg)
-- **Geographic Insights**: ![Geographic Insights](images/Profit_Region_City.jpg)
-- **Segment-Specific Performance**: ![Segment-Specific Performance](images/Sales_Profit_ByRegion.jpg)
+- **Sales & Profit**: ![Sales and Profit](Images/Sales_Profit.jpg)
+- **Sales & Profit Trends**![Sales and Profit Trends](Images/Profit_Trend_Years.jpg)
+- **Discount Effects on Profitability**: ![Discount Effects](Images/Discount_Effect.jpg)
+- **Geographic Insights**: ![Geographic Insights](Images/Profit_Region_City.jpg)
+- **Segment-Specific Performance**: ![Segment-Specific Performance](Images/Sales_Profit_ByRegion.jpg)
